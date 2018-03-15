@@ -4,7 +4,7 @@ public class httftyf {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("jkhjk");
+		System.out.println("jkhjk-99");
 
 	}
 
